@@ -1,6 +1,6 @@
 ## Hello There! Welcome To My Profile 👋
 
-![Shasangkawimba](img/github-header-banner.png)
+![Shasangkawimba](img/github-header-banner-2.png)
 
 <!--
 **Shasangkawimba/Shasangkawimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
